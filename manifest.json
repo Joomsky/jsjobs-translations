@@ -1,0 +1,16 @@
+{
+    "schema": 1,
+    "product": "jsjobs",
+    "generated": "2026-07-27T04:31:22+00:00",
+    "languages": [
+        {
+            "code": "fr-FR",
+            "name": "Français",
+            "file": "fr-FR/fr-FR.com_jsjobs.ini",
+            "sha256": "d89fcf173f6239e5682263cdc862d52e0e256f2d81f3baa3b8dbe1d8dbf3db16",
+            "keys": 2324,
+            "updated": "2026-07-25",
+            "minVersion": "1.4.0"
+        }
+    ]
+}
