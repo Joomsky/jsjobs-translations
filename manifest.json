@@ -1,8 +1,26 @@
 {
     "schema": 1,
     "product": "jsjobs",
-    "generated": "2026-07-27T04:31:22+00:00",
+    "generated": "2026-07-27T13:34:32+00:00",
     "languages": [
+        {
+            "code": "de-DE",
+            "name": "Deutsch",
+            "file": "de-DE/de-DE.com_jsjobs.ini",
+            "sha256": "dbec938430918b8d8ef5ddaf346049d7b8abff081636da8de163563a75eaa6f4",
+            "keys": 2344,
+            "updated": "2026-07-27",
+            "minVersion": "1.4.0"
+        },
+        {
+            "code": "es-ES",
+            "name": "Español",
+            "file": "es-ES/es-ES.com_jsjobs.ini",
+            "sha256": "beeee19ef3847d030720275ce33fafc75bca994adaccd5a661772f4f46bfd150",
+            "keys": 2341,
+            "updated": "2026-07-27",
+            "minVersion": "1.4.0"
+        },
         {
             "code": "fr-FR",
             "name": "Français",
