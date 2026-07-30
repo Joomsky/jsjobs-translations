@@ -1,14 +1,14 @@
 {
     "schema": 1,
     "product": "jsjobs",
-    "generated": "2026-07-30T04:19:34+00:00",
+    "generated": "2026-07-30T10:34:44+00:00",
     "languages": [
         {
             "code": "ar-AA",
             "name": "العربية",
             "file": "ar-AA/ar-AA.com_jsjobs.ini",
-            "sha256": "96261aa50c7b937b2ab37af61cb8bc18255805ae5ac56b314cef0526c47903f2",
-            "keys": 261,
+            "sha256": "be5c7a66dd9578deae2db7770f3e044117919aa7e90c53a2425e8125942d3a52",
+            "keys": 1700,
             "updated": "2026-07-30",
             "minVersion": "1.4.0"
         },
@@ -25,9 +25,9 @@
             "code": "es-ES",
             "name": "Español",
             "file": "es-ES/es-ES.com_jsjobs.ini",
-            "sha256": "beeee19ef3847d030720275ce33fafc75bca994adaccd5a661772f4f46bfd150",
-            "keys": 2341,
-            "updated": "2026-07-27",
+            "sha256": "a4f77360d8e87a1684e8d1067bfeeb452bf9601194476ad6f3504b020fc6db19",
+            "keys": 2764,
+            "updated": "2026-07-30",
             "minVersion": "1.4.0"
         },
         {
