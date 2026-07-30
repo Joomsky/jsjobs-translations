@@ -1,8 +1,17 @@
 {
     "schema": 1,
     "product": "jsjobs",
-    "generated": "2026-07-27T13:34:32+00:00",
+    "generated": "2026-07-30T04:19:34+00:00",
     "languages": [
+        {
+            "code": "ar-AA",
+            "name": "العربية",
+            "file": "ar-AA/ar-AA.com_jsjobs.ini",
+            "sha256": "96261aa50c7b937b2ab37af61cb8bc18255805ae5ac56b314cef0526c47903f2",
+            "keys": 261,
+            "updated": "2026-07-30",
+            "minVersion": "1.4.0"
+        },
         {
             "code": "de-DE",
             "name": "Deutsch",
